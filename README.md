@@ -1,4 +1,4 @@
 # Netflix-Clone
 This is my first clone.
 <br>
-Author - Syed Ahmad Imtiaz
+Author - Syed (Ahmad Imtiaz Shahgit stus)
